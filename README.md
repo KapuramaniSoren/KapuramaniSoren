@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KapuramaniSoren pursuing Engineering in final year with Computer Science and Technology major. 
 
-<img align="center" width="1000" height="500" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+<img align="center" width="800" height="500" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 <h1 align="center">Hi 👋, I'm Kapuramani Soren</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
