@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Backend Project**
 
-- 🌱 I’m currently learning **Express js, MongoDB**
+- 🌱 I’m currently learning **MySQL, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KapuramaniSoren](https://github.com/KapuramaniSoren)
 
